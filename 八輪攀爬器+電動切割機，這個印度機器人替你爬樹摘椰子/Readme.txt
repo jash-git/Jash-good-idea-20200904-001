@@ -1,0 +1,6 @@
+八輪攀爬器+電動切割機，這個印度機器人替你爬樹摘椰子
+
+資料來源: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650797310&idx=2&sn=2fdf79494213be7e4605dc877be290bd&chksm=871a3080b06db9968311042821320384a9b1a5a6fe15a6373f1ea4ed00b76d4c26d572820bf3&scene=126&sessionid=1599629181&key=360754e56e0333194851f8aced240a47406493ddae070f37e10820d1fe494ceaeae38e7ea6fa401bbbf3fb188c10e3587cc63005a818058e8fb556ca58f3e5fe9b661f1ef1c6b570bee7ef13ab7e4ca69ebde464b9c8348298dded407cca26bb2e01fad26ee41282738b51197ecb85953e97ce5135ce8a2df6196fb88a6a4d72&ascene=1&uin=MjIwODk2NDgxNw%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_TW&exportkey=AmP9BeW7Beuwt65ctSFm4kY%3D&pass_ticket=ZAON5xb01Q%2FFDCTNeSQmoYO5IMe1Za%2FDNRZ4C%2BO1XvxP4fdPBVkS4vAtp2tkv%2Bpc&wx_header=0
+
+近日，最新一期《IEEE/ASME Transactions on Mechatronics》刊登了一篇描述爬樹機器人的論文。論文作者設計了一款名為Amaran 的爬樹機器人，它可以代替人類採摘員爬上高達十幾米的椰子樹採摘椰子。
+
